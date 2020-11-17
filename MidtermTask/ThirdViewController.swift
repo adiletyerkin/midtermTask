@@ -13,7 +13,6 @@ class ThirdViewController: UIViewController, UITableViewDelegate, UITableViewDat
     override func viewDidLoad() {
         super.viewDidLoad()
         self.getHouses()
-//        self.getMembers()
         self.booksTable.delegate = self
         self.booksTable.dataSource = self
         self.booksTable.register(UINib(nibName: "TableViewCell", bundle: nil), forCellReuseIdentifier: "cell")
