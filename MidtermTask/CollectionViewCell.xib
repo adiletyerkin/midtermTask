@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="cell" id="gTV-IL-0wX" customClass="CollectionViewCell" customModule="MidtermTask" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="128" height="128"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="128" height="128"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="xEv-Ia-ukP">
+                        <rect key="frame" x="3" y="2" width="122" height="106"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HKX-1g-Hb6">
+                        <rect key="frame" x="4" y="106.5" width="120" height="17.5"/>
+                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                        <color key="textColor" red="0.28389014159999998" green="0.2409584226" blue="0.4636900907" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="HKX-1g-Hb6" secondAttribute="trailing" constant="4" id="2UE-tW-oxl"/>
+                <constraint firstItem="xEv-Ia-ukP" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="3" id="4u5-tO-vwb"/>
+                <constraint firstItem="HKX-1g-Hb6" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="4" id="6Yx-ck-5jd"/>
+                <constraint firstItem="xEv-Ia-ukP" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="2" id="HdZ-Cf-A4K"/>
+                <constraint firstAttribute="bottom" secondItem="xEv-Ia-ukP" secondAttribute="bottom" constant="20" id="M2Y-0T-qoU"/>
+                <constraint firstAttribute="trailing" secondItem="xEv-Ia-ukP" secondAttribute="trailing" constant="3" id="Vdu-sl-WyG"/>
+                <constraint firstAttribute="bottom" secondItem="HKX-1g-Hb6" secondAttribute="bottom" constant="4" id="r2Z-SL-ST2"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="d0B-lh-6hi"/>
+            <size key="customSize" width="108" height="106"/>
+            <connections>
+                <outlet property="seasonName" destination="HKX-1g-Hb6" id="JBO-73-AUO"/>
+                <outlet property="seasonPhoto" destination="xEv-Ia-ukP" id="iv8-QT-3yv"/>
+            </connections>
+            <point key="canvasLocation" x="-102.89855072463769" y="-27.455357142857142"/>
+        </collectionViewCell>
+    </objects>
+</document>

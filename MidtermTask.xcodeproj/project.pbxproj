@@ -13,6 +13,25 @@
 		DA063FA6253622EE0001F488 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA063FA4253622EE0001F488 /* Main.storyboard */; };
 		DA063FA8253622F00001F488 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA063FA7253622F00001F488 /* Assets.xcassets */; };
 		DA063FAB253622F00001F488 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA063FA9253622F00001F488 /* LaunchScreen.storyboard */; };
+		DA62764D253B621800C2B4C3 /* SecondTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA62764B253B621800C2B4C3 /* SecondTableViewCell.swift */; };
+		DA62764E253B621800C2B4C3 /* SecondTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA62764C253B621800C2B4C3 /* SecondTableViewCell.xib */; };
+		DA9105DC253C4B7D00F04D4C /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9105DB253C4B7D00F04D4C /* TabBar.swift */; };
+		DA9105DE253C502600F04D4C /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9105DD253C502600F04D4C /* WelcomeViewController.swift */; };
+		DA9105E1253C573500F04D4C /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9105DF253C573500F04D4C /* CollectionViewCell.swift */; };
+		DA9105E2253C573500F04D4C /* CollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA9105E0253C573500F04D4C /* CollectionViewCell.xib */; };
+		DA9105E4253C62FA00F04D4C /* AdditionalInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9105E3253C62FA00F04D4C /* AdditionalInfoViewController.swift */; };
+		DA9324EA253750BB001534D0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9324E8253750BB001534D0 /* TableViewCell.swift */; };
+		DA9324EB253750BB001534D0 /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA9324E9253750BB001534D0 /* TableViewCell.xib */; };
+		DA9324EE253756C1001534D0 /* Game of Thrones.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA9324ED253756C1001534D0 /* Game of Thrones.ttf */; };
+		DA9324F12537601E001534D0 /* Jon-Snow-Game-of-Thrones-Season-8-4K-Ultra-HD-Mobile-Wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA9324F02537601E001534D0 /* Jon-Snow-Game-of-Thrones-Season-8-4K-Ultra-HD-Mobile-Wallpaper.jpg */; };
+		DA9324F325376025001534D0 /* game-of-thrones-phone-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA9324F225376025001534D0 /* game-of-thrones-phone-wallpaper.jpg */; };
+		DA9324F52537602C001534D0 /* wp4305136.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA9324F42537602C001534D0 /* wp4305136.jpg */; };
+		DA9324F725376034001534D0 /* Iphone-wallpaper-minimalist-144.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA9324F625376034001534D0 /* Iphone-wallpaper-minimalist-144.jpg */; };
+		DA9324F92537603A001534D0 /* AUKCbh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA9324F82537603A001534D0 /* AUKCbh.jpg */; };
+		DAC034EF2539DFB8005458B4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC034EE2539DFB8005458B4 /* SecondViewController.swift */; };
+		DAC034F12539E50F005458B4 /* Modals.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC034F02539E50F005458B4 /* Modals.swift */; };
+		DAC034F32539E5CF005458B4 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC034F22539E5CF005458B4 /* ThirdViewController.swift */; };
+		DAC034F52539E5E2005458B4 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC034F42539E5E2005458B4 /* FourthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +43,25 @@
 		DA063FA7253622F00001F488 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA063FAA253622F00001F488 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA063FAC253622F00001F488 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA62764B253B621800C2B4C3 /* SecondTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTableViewCell.swift; sourceTree = "<group>"; };
+		DA62764C253B621800C2B4C3 /* SecondTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondTableViewCell.xib; sourceTree = "<group>"; };
+		DA9105DB253C4B7D00F04D4C /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		DA9105DD253C502600F04D4C /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		DA9105DF253C573500F04D4C /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		DA9105E0253C573500F04D4C /* CollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollectionViewCell.xib; sourceTree = "<group>"; };
+		DA9105E3253C62FA00F04D4C /* AdditionalInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionalInfoViewController.swift; sourceTree = "<group>"; };
+		DA9324E8253750BB001534D0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		DA9324E9253750BB001534D0 /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
+		DA9324ED253756C1001534D0 /* Game of Thrones.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Game of Thrones.ttf"; sourceTree = "<group>"; };
+		DA9324F02537601E001534D0 /* Jon-Snow-Game-of-Thrones-Season-8-4K-Ultra-HD-Mobile-Wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jon-Snow-Game-of-Thrones-Season-8-4K-Ultra-HD-Mobile-Wallpaper.jpg"; sourceTree = "<group>"; };
+		DA9324F225376025001534D0 /* game-of-thrones-phone-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "game-of-thrones-phone-wallpaper.jpg"; sourceTree = "<group>"; };
+		DA9324F42537602C001534D0 /* wp4305136.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wp4305136.jpg; sourceTree = "<group>"; };
+		DA9324F625376034001534D0 /* Iphone-wallpaper-minimalist-144.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Iphone-wallpaper-minimalist-144.jpg"; sourceTree = "<group>"; };
+		DA9324F82537603A001534D0 /* AUKCbh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AUKCbh.jpg; sourceTree = "<group>"; };
+		DAC034EE2539DFB8005458B4 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		DAC034F02539E50F005458B4 /* Modals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modals.swift; sourceTree = "<group>"; };
+		DAC034F22539E5CF005458B4 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		DAC034F42539E5E2005458B4 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +94,50 @@
 		DA063F9D253622EE0001F488 /* MidtermTask */ = {
 			isa = PBXGroup;
 			children = (
+				DA9324EF2537600D001534D0 /* photoes */,
+				DA9324EC25375648001534D0 /* Fonts */,
 				DA063F9E253622EE0001F488 /* AppDelegate.swift */,
 				DA063FA0253622EE0001F488 /* SceneDelegate.swift */,
 				DA063FA2253622EE0001F488 /* ViewController.swift */,
+				DA9105DD253C502600F04D4C /* WelcomeViewController.swift */,
+				DAC034EE2539DFB8005458B4 /* SecondViewController.swift */,
+				DA9105DF253C573500F04D4C /* CollectionViewCell.swift */,
+				DA9105E0253C573500F04D4C /* CollectionViewCell.xib */,
+				DAC034F22539E5CF005458B4 /* ThirdViewController.swift */,
+				DAC034F42539E5E2005458B4 /* FourthViewController.swift */,
 				DA063FA4253622EE0001F488 /* Main.storyboard */,
 				DA063FA7253622F00001F488 /* Assets.xcassets */,
 				DA063FA9253622F00001F488 /* LaunchScreen.storyboard */,
 				DA063FAC253622F00001F488 /* Info.plist */,
+				DA9324E8253750BB001534D0 /* TableViewCell.swift */,
+				DA9324E9253750BB001534D0 /* TableViewCell.xib */,
+				DAC034F02539E50F005458B4 /* Modals.swift */,
+				DA62764B253B621800C2B4C3 /* SecondTableViewCell.swift */,
+				DA9105E3253C62FA00F04D4C /* AdditionalInfoViewController.swift */,
+				DA62764C253B621800C2B4C3 /* SecondTableViewCell.xib */,
+				DA9105DB253C4B7D00F04D4C /* TabBar.swift */,
 			);
 			path = MidtermTask;
+			sourceTree = "<group>";
+		};
+		DA9324EC25375648001534D0 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				DA9324ED253756C1001534D0 /* Game of Thrones.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		DA9324EF2537600D001534D0 /* photoes */ = {
+			isa = PBXGroup;
+			children = (
+				DA9324F225376025001534D0 /* game-of-thrones-phone-wallpaper.jpg */,
+				DA9324F42537602C001534D0 /* wp4305136.jpg */,
+				DA9324F625376034001534D0 /* Iphone-wallpaper-minimalist-144.jpg */,
+				DA9324F82537603A001534D0 /* AUKCbh.jpg */,
+				DA9324F02537601E001534D0 /* Jon-Snow-Game-of-Thrones-Season-8-4K-Ultra-HD-Mobile-Wallpaper.jpg */,
+			);
+			path = photoes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +198,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA9324F12537601E001534D0 /* Jon-Snow-Game-of-Thrones-Season-8-4K-Ultra-HD-Mobile-Wallpaper.jpg in Resources */,
+				DA9324F92537603A001534D0 /* AUKCbh.jpg in Resources */,
+				DA9105E2253C573500F04D4C /* CollectionViewCell.xib in Resources */,
+				DA9324F52537602C001534D0 /* wp4305136.jpg in Resources */,
+				DA9324EE253756C1001534D0 /* Game of Thrones.ttf in Resources */,
+				DA9324F325376025001534D0 /* game-of-thrones-phone-wallpaper.jpg in Resources */,
 				DA063FAB253622F00001F488 /* LaunchScreen.storyboard in Resources */,
+				DA9324EB253750BB001534D0 /* TableViewCell.xib in Resources */,
 				DA063FA8253622F00001F488 /* Assets.xcassets in Resources */,
+				DA9324F725376034001534D0 /* Iphone-wallpaper-minimalist-144.jpg in Resources */,
+				DA62764E253B621800C2B4C3 /* SecondTableViewCell.xib in Resources */,
 				DA063FA6253622EE0001F488 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,8 +221,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA063FA3253622EE0001F488 /* ViewController.swift in Sources */,
+				DAC034F12539E50F005458B4 /* Modals.swift in Sources */,
+				DA9105E4253C62FA00F04D4C /* AdditionalInfoViewController.swift in Sources */,
+				DA9105E1253C573500F04D4C /* CollectionViewCell.swift in Sources */,
+				DA9105DE253C502600F04D4C /* WelcomeViewController.swift in Sources */,
+				DA9324EA253750BB001534D0 /* TableViewCell.swift in Sources */,
+				DAC034F32539E5CF005458B4 /* ThirdViewController.swift in Sources */,
+				DAC034F52539E5E2005458B4 /* FourthViewController.swift in Sources */,
+				DA62764D253B621800C2B4C3 /* SecondTableViewCell.swift in Sources */,
 				DA063F9F253622EE0001F488 /* AppDelegate.swift in Sources */,
+				DAC034EF2539DFB8005458B4 /* SecondViewController.swift in Sources */,
 				DA063FA1253622EE0001F488 /* SceneDelegate.swift in Sources */,
+				DA9105DC253C4B7D00F04D4C /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
