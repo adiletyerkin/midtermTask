@@ -180,14 +180,14 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2011 ‧ Drama ‧ 8 seasons" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MOy-mn-64x">
-                                <rect key="frame" x="51" y="381" width="312" height="21"/>
+                                <rect key="frame" x="74" y="381" width="266" height="21"/>
                                 <fontDescription key="fontDescription" name="GameofThrones" family="Game of Thrones" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Game of Thrones" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eb7-5a-zUA">
-                                <rect key="frame" x="51" y="323" width="312" height="33"/>
-                                <fontDescription key="fontDescription" name="GameofThrones" family="Game of Thrones" pointSize="27"/>
+                                <rect key="frame" x="74" y="328" width="266" height="28"/>
+                                <fontDescription key="fontDescription" name="GameofThrones" family="Game of Thrones" pointSize="23"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
